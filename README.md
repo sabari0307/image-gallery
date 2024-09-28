@@ -10,7 +10,7 @@ This is a simple image gallery website created using HTML and basic CSS. The web
 
 ## Demo
 
-[Add link to live demo or screenshot of the website]
+[[Link](https://sabari0307.github.io/image-gallery/)]
 
 ## Technologies Used
 
